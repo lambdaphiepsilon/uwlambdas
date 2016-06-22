@@ -1,0 +1,23 @@
+# Custom CSS file
+
+.accordion-title {
+background-color:rgba(0,0,0,0.045);
+cursor: pointer;
+margin:5px 0;
+padding:10px 15px;
+}
+.accordion {
+margin:-5px 0 0 0;
+}
+.footable-page {
+display:inline;
+padding:5px;
+text-align:center;
+}
+.footable-page-arrow {
+display:inline;
+padding:5px;
+}
+.pagination-centered {
+text-align:center;
+}
